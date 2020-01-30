@@ -1,0 +1,54 @@
+html {
+    height: 100%;
+  }
+  
+  /* body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .conteudo {
+    flex: 1;
+  } */
+
+  .roxo-text {
+
+    color: #fff;
+  }
+  
+  .azul-nav{
+    background-color: #1dc5e9;
+}
+
+.conteudo {
+  height: 90vh;  /* The height is 400 pixels */
+  width: 100%;  /* The width is the width of the web page */
+  
+ }
+
+ #teste {
+  height: inherit;
+  width: inherit;
+ }
+
+ .teste {
+   height: 40vh;
+ }
+
+ .fixo {
+  position: absolute; 
+  bottom: 0px; 
+ }
+
+ .ola {
+  height: 100%;
+  min-height: 100%;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  padding-bottom: 90px;
+ }
