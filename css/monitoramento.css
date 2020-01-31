@@ -6,6 +6,10 @@ body{
     background-color: #ecedef;
 }
 
+.azul {
+  background-image: linear-gradient(to left, #049DF5 0%, #04A9F5 100%);
+}
+
 .statistic {
     font-size: 8em;
     margin-top: 15px !important;
