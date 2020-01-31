@@ -1,7 +1,7 @@
 {
-    "name": "Highfiren",
-    "short_name": "Highfiren",
-    "description": "Web App Highfiren",
+    "name": "Soil Analysis by Light",
+    "short_name": "SAL",
+    "description": "Web App SAL",
     "display": "fullscreen",
     "background_color": "#1dc5e9",
     "icons": [{

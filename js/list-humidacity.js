@@ -38,7 +38,7 @@ function listar(lista) {
    var temperaturaRef = db.ref('DHT-Temperature');
  
    // Registra as funções que atualizam os gráficos e dados atuais da telemetria
-   temperaturaRef.on('value', onNewData('currentTemp', 'tempLineChart' , 'Matéria orgânica %', '%'));
+   temperaturaRef.on('value', onNewData('currentTemp', 'tempLineChart' , 'Matéria orgânica g/L', 'g/L'));
  
  })();
  
