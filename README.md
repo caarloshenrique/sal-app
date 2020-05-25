@@ -1,4 +1,5 @@
 # sal-app
+:seedling: SAL é um sistema para análise de solo criado para participação na 8ª Edição do Campus Mobile - programa organizado pelo Instituto Claro em parceria com o Laboratório de Sistemas Integráveis Tecnológico (LSI-TEC) da Universidade de São Paulo (USP)
 
 ## :page_facing_up: Licença 
 Este projeto é desenvolvido sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para saber mais detalhes.
