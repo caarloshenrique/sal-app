@@ -1,6 +1,23 @@
 # sal-app
 :seedling: SAL é um sistema para análise de solo criado para participação na 8ª Edição do Campus Mobile - programa organizado pelo Instituto Claro em parceria com o Laboratório de Sistemas Integráveis Tecnológico (LSI-TEC) da Universidade de São Paulo (USP).
 
+## :computer: Interfaces
+
+### :bust_in_silhouette: Autenticação e Cadastro
+
+<p align="center">
+    <img width="280" height="600" src="/img/index.png">
+    <img width="280" height="600" src="/img/signup.png">
+</p>
+
+### :microscope: Análise
+
+<p align="center">
+    <img width="280" height="600" src="/img/home-page.png">
+    <img width="280" height="600" src="/img/analysis.png">
+    <img width="280" height="600" src="/img/historic.png">
+</p>
+
 ## :rocket: Tecnologias utilizadas 
 
 O projeto foi feito utilizando as seguintes tecnologias:
